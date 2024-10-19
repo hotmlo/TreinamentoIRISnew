@@ -1,0 +1,10 @@
+ROUTINE TESTE
+TESTE ;ROTINA DE TESTE
+	;
+	WRITE !!,"MARCIO LOUREIRO TESTE"
+	READ !!,"X = ",X,!!,"Y = ",Y
+	FOR I=X:1:Y
+	{
+	 IF I#2=0 W !,"ESTE É PAR = ",I
+	}
+TESTEZ	QUIT 	
